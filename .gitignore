@@ -1,5 +1,6 @@
-.phpunit
-.phpunit.result.cache
+/behat.yml
+/.phpunit
+/.phpunit.result.cache
 /phpunit.xml
 /vendor/
 /composer.lock
